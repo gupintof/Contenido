@@ -18,7 +18,7 @@ Para postular debes entrar a este [link](https://edu.google.com/programs/cloud-c
 **Información del Curso**: Llena lo siguiente:
 * *Your course name (existing or proposed)*: BigData con Google Cloud Platform
 * *Expected number of students*: 40 (si son más de 40 indicar)
-* *Expected course start date*: 06-03-2023
+* *Expected course start date*: 04-03-2024
 * *How did you hear about the curriculum?*: Google Event
 
 Una vez enviado el formulario, el equipo de Google revisará la información, esto puede tomar entre 2 a 7 días. En caso de no recibir ninguna notificación en dicho período de tiempo escríbenos a s.rodriguez@profesor.duoc.cl, indicando la fecha y correo con el cual postulaste.
@@ -53,7 +53,7 @@ Para postular debes entrar a este [link](https://edu.google.com/programs/credits
 
 *Course 1 Details*
 * *Course name*: BigData
-* *Expected course start date*: 2023-04-30
+* *Expected course start date*: 2024-03-04
 * *Course abstract and description of how credits will be used in the course*: Students must solve 3 challenges over 2 months, using BigQuery, DataFlow, Cloud * *Functions and Cloud Storage. The credits will be used to allow students to develop and solve these challenges within GCP Platform during 2 months
 * *Course URL*: https://www.duoc.cl/escuela/informatica-telecomunicaciones/sobre-la-escuela/
 
